@@ -1,0 +1,4 @@
+id,name,type,hp,attack,defense,special_attack,special_defense,speed
+1,charmander,fire,70,160,200,50,90,60
+2,squirtle,water,80,125,220,55,105,35
+3,bulbasaur,poison,75,140,190,70,95,55
